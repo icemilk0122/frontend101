@@ -5,7 +5,7 @@
 2. 版本管理及網頁空間: <a href="https://pages.github.com/" target="_blank">github</a>
 
 <h2>Lesson 1:</h2>
-1. 網頁基本架構
+1. 網頁基本架構與<a href="http://zh-tw.learnlayout.com/" target="_blank">css基礎</a>
 2. 簡單的navbar, content, footer架構範例
 3. fixed navbar和sticky footer範例
 4. 利用bootstrap製作的範例
