@@ -1,7 +1,7 @@
 這份文件是由Wes Chuang所維護，主要內容是紀錄前端教學時所用到的一些範例
 
 <h2>Lesson 0:</h2>
-1. 編輯器安裝: [Atom](https://atom.io/){:target="_blank"}
+1. 編輯器安裝: [Atom](https://atom.io/){target:"_blank"}
 2. 版本管理及網頁空間: [github](https://pages.github.com/){:target="_blank"}
 
 <h2>Lesson 1:</h2>
