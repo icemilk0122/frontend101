@@ -7,9 +7,8 @@
 <h2>Lesson 1:</h2>
 1. 網頁基本架構與[CSS基礎](http://zh-tw.learnlayout.com/)
 2. 簡單的navbar, content, footer架構範例
-3. fixed navbar和sticky footer範例
-4. 利用bootstrap製作的範例
-5. RWD
+3. [Bootstrap] + RWD - [教學](http://www.w3schools.com/bootstrap/default.asp)
+4. 補充fixed navbar和sticky footer範例
 
 <h2>Lesson 2:</h2>
 1. 表單製作
