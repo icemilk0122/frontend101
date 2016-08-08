@@ -9,3 +9,12 @@
 2. 簡單的navbar, content, footer架構範例
 3. fixed navbar和sticky footer範例
 4. 利用bootstrap製作的範例
+5. RWD
+
+<h2>Lesson 2:</h2>
+1. 表單製作
+2. jquery
+3. 串接api
+4. FB登入
+5. jquery plugin
+
