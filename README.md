@@ -7,7 +7,7 @@
 <h2>Lesson 1:</h2>
 1. 網頁基本架構與[CSS基礎](http://zh-tw.learnlayout.com/)
 2. 簡單的navbar, content, footer架構範例
-3. [Bootstrap](http://getbootstrap.com/) + RWD - [教學](http://www.w3schools.com/bootstrap/default.asp)
+3. [Bootstrap](http://getbootstrap.com/) ([中文版](https://kkbruce.tw/bs3)) + RWD - [教學](http://www.w3schools.com/bootstrap/default.asp)
 4. 補充fixed navbar和sticky footer範例
 
 <h2>Lesson 2:</h2>
